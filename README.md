@@ -33,8 +33,6 @@
   <code><img width="5%" title="Postman" src="https://github.com/shadowkatja/shadowkatja/blob/master/icons/postman.png"></code>
   <code><img width="5%" title="Jira" src="https://github.com/shadowkatja/shadowkatja/blob/master/icons/jira.png"></code>
   <code><img width="5%" title="Confluence" src="https://github.com/shadowkatja/shadowkatja/blob/master/icons/confluence.png"></code>
-  <code><img width="5%" title="Slack" src="https://github.com/shadowkatja/shadowkatja/blob/master/icons/slack.png"></code>
-  <code><img width="5%" title="Telegram" src="https://github.com/shadowkatja/shadowkatja/blob/master/icons/telegram.png"></code>
 </p>
 
 ### Example of my autotest project
