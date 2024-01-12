@@ -16,7 +16,7 @@
 ### Education and courses
 <table width="100%" border='0'>
     <tr><td width="10%" valign="bottom"><img src="icons/miigaik.png"></td><td valign="middle">Moscow State University of Geodesy and Cartography</br>Information Systems and Technologies</td></tr>
-    <tr><td width="10%" valign="bottom"><img src="icons/stepik.png"></td><td valign="middle">Stepik</br>Python Programming</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="icons/stepik.png"></td><td valign="middle">Stepik</br>Python Programming </br> <a target="_blank" href="https://stepik.org/cert/1464954?lang=en">Certificate</a> </td></tr>
     <tr><td width="10%" valign="bottom"><img src="icons/qa_guru.png"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python.</td></tr>
 </table>
 
