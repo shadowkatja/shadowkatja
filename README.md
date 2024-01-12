@@ -40,7 +40,7 @@
 </p>
 
 ### Example of my autotest project
-<a target="_blank" href="https://github.com/shadowkatja/qa_guru_python_8_final_work">UI and API Testing Project using the AutomationExercise Test E-commerce Service</a>
+#### <a target="_blank" href="https://github.com/shadowkatja/qa_guru_python_8_final_work">UI and API Testing Project using the AutomationExercise Test E-commerce Service</a>
 
 ### GitHub stat
 
