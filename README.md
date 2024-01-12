@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About me:
+### About me
 
 :shipit: My name is Kate
 
