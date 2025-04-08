@@ -4,9 +4,8 @@
 
 :shipit: My name is Kate
 
-:hammer: I'm currently working as manual QA engineer, and I'm planning to switch to full stack QA engineer
+:hammer: I'm currently working as  full stack QA engineer
 
-:computer: I'm learning how to write good autotests
 
 :envelope: You can contact me via telegram: <a target="_blank" href="https://t.me/lo_paolino">@lo_paolino</a>
 
